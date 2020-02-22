@@ -4,7 +4,8 @@
   "description": "Swaps out an access token for spotify iOS apps",
   "main": "app.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha tests/*.spec.js"
+    "test": "./node_modules/mocha/bin/mocha tests/*.spec.js",
+    "start": "node app.js"
   },
   "author": "Rory Gilchrist",
   "license": "ISC",
